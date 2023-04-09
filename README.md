@@ -1,2 +1,2 @@
 # Qwicke
-Application écrite en C++ avec une couche d'interface écrite en C++
+Application écrite en C++ avec une couche d'interface écrite en Qt6
